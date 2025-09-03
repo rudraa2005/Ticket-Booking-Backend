@@ -1,0 +1,143 @@
+[
+  {
+    "name": "Rudranil Bhattacharya",
+    "password": "12345",
+    "hashed_password": "$2a$10$MqonEcizso4Re9iFEMajHOIHCUd5O3Q.XZX779C50ZnC/Hb6mirwW",
+    "tickets_booked": [
+      {
+        "trainID": null,
+        "source": "Bangalore",
+        "destination": "Delhi",
+        "train": {
+          "seats": [
+            [0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0]
+          ],
+          "stations": ["Bangalore", "Jaipur", "Delhi"],
+          "train_id": "bacs",
+          "trainName": null,
+          "train_no": "12345",
+          "station_times": {
+            "Bangalore": "13:50:00",
+            "Jaipur": "13:50:00",
+            "Delhi": "13:50:00"
+          },
+          "train_info": "Train ID:bacs Train No:12345"
+        },
+        "ticketInfo": "Ticket ID: your_ticket_id | Train: null (12345) | From Bangalore to Delhi",
+        "user_id": "abcdefgh",
+        "ticket_id": "your_ticket_id"
+      }
+    ],
+    "user_id": "abcdefgh"
+  },
+  {
+    "name": "rahul",
+    "password": "hhbb11",
+    "hashed_password": "$2a$10$O/OWE.xh3gttMANiM4BIX.mo.4/myik1J739DZ25ecVENk8xhMCW2",
+    "tickets_booked": [],
+    "user_id": "fe46da4d-c8d1-4229-97e6-600dce6941e8"
+  },
+  {
+    "name": "Rudranil",
+    "password": "123456",
+    "hashed_password": "$2a$10$Nyyed362.ZMqbgZL1VTzN.J.wbURPzPk/tFQuqgJe6QfSPArmMU0O",
+    "tickets_booked": [],
+    "user_id": "03f1a568-71aa-4273-b0e9-f3b5b1fa41fd"
+  },
+  {
+    "name": "Rudra",
+    "password": "200514",
+    "hashed_password": "$2a$10$/6iznb8z6Prm2keg1P5spuOLY1F.NUmsH1SlQJ2TMwnVaPziZZJpu",
+    "tickets_booked": [
+      {
+        "trainID": null,
+        "source": null,
+        "destination": null,
+        "train": {
+          "seats": [
+            [0, 1, 0, 0, 0, 0],
+            [0, 1, 1, 1, 0, 0],
+            [0, 0, 0, 0, 0, 1],
+            [0, 0, 1, 0, 0, 0]
+          ],
+          "stations": ["bangalore", "jaipur", "delhi"],
+          "train_id": "bacs",
+          "trainName": null,
+          "train_no": "12345",
+          "station_times": {
+            "bangalore": "13:50:00",
+            "jaipur": "13:50:00",
+            "delhi": "13:50:00"
+          },
+          "train_info": "Train ID:bacs Train No:12345"
+        },
+        "ticketInfo": "Ticket ID: null | Train: null (12345) | From null to null",
+        "user_id": null,
+        "ticket_id": null
+      },
+      {
+        "trainID": null,
+        "source": null,
+        "destination": null,
+        "train": {
+          "seats": [
+            [1, 1, 0, 0, 0, 0],
+            [0, 1, 1, 1, 0, 0],
+            [0, 0, 0, 0, 0, 1],
+            [0, 0, 1, 0, 0, 0]
+          ],
+          "stations": ["bangalore", "jaipur", "delhi"],
+          "train_id": "bacs",
+          "trainName": null,
+          "train_no": "12345",
+          "station_times": {
+            "bangalore": "13:50:00",
+            "jaipur": "13:50:00",
+            "delhi": "13:50:00"
+          },
+          "train_info": "Train ID:bacs Train No:12345"
+        },
+        "ticketInfo": "Ticket ID: 21658e65-1b0e-4fe3-bf52-bb36f3079a7d | Train: null (12345) | From null to null",
+        "user_id": "PUT_RUDRA_USER_ID_HERE",
+        "ticket_id": "21658e65-1b0e-4fe3-bf52-bb36f3079a7d"
+      },
+      {
+        "trainID": null,
+        "source": null,
+        "destination": null,
+        "train": {
+          "seats": [
+            [1, 1, 0, 0, 0, 1],
+            [0, 1, 1, 1, 0, 0],
+            [0, 0, 0, 0, 0, 1],
+            [0, 0, 1, 0, 0, 0]
+          ],
+          "stations": ["bangalore", "jaipur", "delhi"],
+          "train_id": "bacs",
+          "trainName": null,
+          "train_no": "12345",
+          "station_times": {
+            "bangalore": "13:50:00",
+            "jaipur": "13:50:00",
+            "delhi": "13:50:00"
+          },
+          "train_info": "Train ID:bacs Train No:12345"
+        },
+        "ticketInfo": "Ticket ID: 5000e004-5e3a-427d-81f4-9f4759785e1f | Train: null (12345) | From null to null",
+        "user_id": "PUT_RUDRA_USER_ID_HERE",
+        "ticket_id": "5000e004-5e3a-427d-81f4-9f4759785e1f"
+      }
+    ],
+    "user_id": "PUT_RUDRA_USER_ID_HERE"
+  },
+  {
+    "name": "0",
+    "password": "200514",
+    "hashed_password": "$2a$10$n1c4R8yidJLg7MfhINQsy.NKmWUWxlJEcovfieMoNrpYPwd9nbjVO",
+    "tickets_booked": [],
+    "user_id": "424777c4-460e-41af-810c-48a1310b331b"
+  }
+]
